@@ -1,0 +1,1 @@
+export const base_url="https://crudsever.onrender.com"
